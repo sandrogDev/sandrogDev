@@ -31,9 +31,5 @@ An automated data ingestion script that reads raw, disoriented text reviews, cat
 
 ---
 
-## Let's Connect
-
-I am currently available for freelance projects and consulting. If you need to automate a bottleneck in your company or integrate intelligent pipelines into your existing software, reach out:
-
 * **Email:** [sandro.gabra@outlook.it]
 * **LinkedIn:** [https://www.linkedin.com/in/sandro-g-410430386/]
